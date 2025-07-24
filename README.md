@@ -46,6 +46,8 @@ Open a Pull Request
 📧 Contact
 
 My name: Maxcel (MaxcelDecoder) 
+
 Email: mukemmbawei@gmail.com
+
 Project Link: https://github.com/maxcel652/maxcel-pokemon
 
