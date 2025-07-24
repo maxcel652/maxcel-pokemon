@@ -45,7 +45,7 @@ Open a Pull Request
 
 📧 Contact
 
-My name: Maxcel (MaxcelDecoder) 
+My name: Maxcel (MaxcelDeCoder) 
 
 Email: mukemmbawei@gmail.com
 
